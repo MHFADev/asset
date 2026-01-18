@@ -1,0 +1,44 @@
+[
+  {
+    "id": "$mhfadev.public.2026-01-16-07:40:48.484",
+    "mute": true,
+    "author": "MHFADev",
+    "meta": {
+      "pca": {
+        "version": "4.4.2"
+      }
+    },
+    "show new marker": false,
+    "searchable": false,
+    "not implemented": true,
+    "frames": [
+      {
+        "bmp": "1001226536.png"
+      }
+    ],
+    "price": 160000,
+    "monthly price": 13000,
+    "diamond price": 10,
+    "power": 5,
+    "water": 5,
+    "build time": 129,
+    "influence pollution": 4,
+    "influence noise": 2,
+    "influence culture": 10,
+    "influence religion": 10,
+    "provide aspect education low": 20,
+    "provide aspect education high": 100,
+    "width": 4,
+    "height": 4,
+    "needs land": true,
+    "needs water": true,
+    "level": 2,
+    "density": -2,
+    "budget item": "10000",
+    "bulldoze price": 90000,
+    "max count": 100,
+    "pedestrian": "12",
+    "pedestrian count": 100,
+    "type": "public"
+  }
+]
