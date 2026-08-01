@@ -1,22 +1,33 @@
 {
-  "IMG_20260709_130641.jpg": {
-    "title": "Melakukan Test fitur",
-    "desc": "Melakukan Test fitur pada web absensi pkl, menggunakan bantuan beberapa AI."
+  "projects": {
+    "IMG_20260709_130641.jpg": {
+      "title": "Melakukan Testing dan perbaikan pada website",
+      "desc": "Melakukan testing dan perbaikan  pada website absensi siswa pkl, "
+    },
+    "WhatsApp Image 2026-07-09 at 12.06.57.jpeg": {
+      "title": "Mengembangkan website absensi siswa pkl",
+      "desc": ""
+    },
+    "WhatsApp Image 2026-07-11 at 12.08.26.jpeg": {
+      "title": "Melakukan perbaikan pada pc ",
+      "desc": "Melakukan perbaikan pada pc yang dimana keyboard dan mouse nya tidak bekerja"
+    },
+    "WhatsApp Image 2026-07-22 at 09.57.08.jpeg": {
+      "title": "Melakukan testing pada keyboard dan mouse pc",
+      "desc": ""
+    },
+    "WhatsApp Image 2026-07-22 at 09.57.26.jpeg": {
+      "title": "Memperbaiki masalah pada database web",
+      "desc": ""
+    }
   },
-  "WhatsApp Image 2026-07-09 at 12.06.57.jpeg": {
-    "title": "Mengembangkan website absensi",
-    "desc": "Mengembangkan website absensi PKL , yang dibantu oleh teman dan beberapa model AI."
-  },
-  "WhatsApp Image 2026-07-11 at 12.08.26.jpeg": {
-    "title": "Maintenance PC",
-    "desc": "Melakukan pengecekan pc yang dimana mouse dan keyboard tidak bisa di gunakan."
-  },
-  "WhatsApp Image 2026-07-22 at 09.57.08.jpeg": {
-    "title": "Melakukan Test Keyboard dan mouse",
-    "desc": "Melakukan Test Keyboard dan mouse, menggunakan website yang tersedia di internet"
-  },
-  "WhatsApp Image 2026-07-22 at 09.57.26.jpeg": {
-    "title": "Debugging fitur absensi pkl",
-    "desc": ""
-  }
+  "techStack": [
+    "nextdotjs",
+    "typescript",
+    "javascript",
+    "nodedotjs",
+    "html5",
+    "postgresql",
+    "css"
+  ]
 }
