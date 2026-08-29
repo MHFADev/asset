@@ -28,6 +28,15 @@
     "nodedotjs",
     "html5",
     "postgresql",
-    "css"
+    "css",
+    "git",
+    "python",
+    "nginx",
+    "supabase",
+    "vercel",
+    "gnubash",
+    "vuedotjs",
+    "debian",
+    "tailwindcss"
   ]
 }
