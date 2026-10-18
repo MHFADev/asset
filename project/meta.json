@@ -51,11 +51,6 @@
         "postgresql",
         "css"
       ]
-    },
-    "img-20260709-130641-1787970743669.jpg": {
-      "title": "",
-      "desc": "",
-      "techStack": []
     }
   },
   "techStack": [
@@ -97,6 +92,8 @@
     "phone": "+6281574647741",
     "github": "https://github.com/MHFADev",
     "linkedin": "https://linkedin.com/in/mhilmifa",
-    "website": "https://mhilmi.my.id"
+    "website": "https://mhilmi.my.id",
+    "cvFileName": "",
+    "extraLinks": []
   }
 }
