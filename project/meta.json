@@ -53,6 +53,15 @@
       ]
     }
   },
+  "certificates": {
+    "cede81bef9-pages-to-jpg-0001-1792918054257.jpg": {
+      "title": "Generatif AI",
+      "issuer": "CODEPOLITAN",
+      "year": "2026",
+      "desc": "",
+      "verifyUrl": ""
+    }
+  },
   "techStack": [
     "nextdotjs",
     "typescript",
